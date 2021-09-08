@@ -35,3 +35,24 @@ td {
   padding-left: 5px;
   padding-right: 5px;
 }
+.book_body {
+  padding: 2px;
+}
+.book_title {
+  padding: 1px 2px;
+}
+h1 {
+  margin: 17.42px 0px;
+}
+h2 {
+  margin: 16.185px 0px;
+}
+.actions {
+  margin: 0px 0px 10px;
+}
+.field {
+  margin: 0px 0px 10px;
+}
+.button {
+  padding: 1px 6px;
+}
